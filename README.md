@@ -80,5 +80,5 @@ This notebook provides a solid foundation in exploratory data analysis using rea
 - Generating plots for insight
 - Answering data-driven questions with Python
 
-- Submitted by : Sanghita Roy
-- Program : Summer Analytics 2025
+Submitted by : Sanghita Roy
+Program : Summer Analytics 2025
